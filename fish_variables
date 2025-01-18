@@ -6,7 +6,10 @@ SETUVAR --export GIT_CONFIG_GLOBAL:/home/jstaples/\x2econfig/git/config
 =======
 SETUVAR --export GIT_CONFIG_GLOBAL:/Users/jstaples/\x2econfig/git/config
 SETUVAR --export SHELL:/opt/homebrew/bin/fish
+<<<<<<< HEAD
 >>>>>>> 7c8ccde (Changes to fish)
+=======
+>>>>>>> 0088ae0 (Changes to fish)
 SETUVAR --export XDG_CONFIG:/Users/jstaples/\x2econfig
 SETUVAR --export XDG_CONFIG_HOME:/Users/jstaples/\x2econfig
 SETUVAR --export XDG_DATA_HOME:/Users/jstaples/\x2elocal/data
