@@ -2,11 +2,8 @@
 # VERSION: 3.0
 SETUVAR --export BWS_ACCESS_TOKEN:0\x2efa16dec5\x2dea27\x2d44c2\x2db975\x2db20501842872\x2efnYPclrT5UfmuBMg1CibfzVg0uc1s3\x3adGn6b7eFGJE3MGzeOFwK9w\x3d\x3d
 SETUVAR --export GIT_CONFIG_GLOBAL:/home/jstaples/\x2econfig/git/config
-SETUVAR --export GIT_CONFIG_GLOBAL:/Users/jstaples/\x2econfig/git/config
+SETUVAR --export GIT_CONFIG_GLOBAL:/home/jstaples/\x2econfig/git/config
 SETUVAR --export SHELL:/opt/homebrew/bin/fish
-SETUVAR --export XDG_CONFIG:/Users/jstaples/\x2econfig
-SETUVAR --export XDG_CONFIG_HOME:/Users/jstaples/\x2econfig
-SETUVAR --export XDG_DATA_HOME:/Users/jstaples/\x2elocal/data
 SETUVAR --export XDG_CONFIG:/home/jstaples/\x2econfig
 SETUVAR --export XDG_CONFIG_HOME:/home/jstaples/\x2econfig
 SETUVAR --export XDG_DATA_HOME:/home/jstaples/\x2elocal/data
